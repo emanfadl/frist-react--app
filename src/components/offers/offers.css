@@ -1,0 +1,129 @@
+.offershome h1{
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-weight: lighter;
+    font-size: 40px;
+    padding-top: 50px;
+    }
+    .offershome p{
+        text-align: center;
+        color: #F36F20;
+        font-family: 'Cairo', sans-serif;
+        font-size: 15px;
+        padding-top: 5px;
+    }
+.box img{
+    position: relative;
+}
+.box .row .title{
+    background-color: #CBC2C2;
+    text-align: center;
+    height: 50px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+    width: 253px;
+    position: absolute;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+} 
+.box .row .title h5{
+    padding-top: 10px;
+}
+ .box .col-md-3{
+     margin-top: 50px;
+ }
+ 
+ 
+ @media screen and (max-width: 1000px){
+    .box .col-md-3{
+margin-right: 50px;
+    }
+    .box .col-md-3 img{
+        width:400px;
+    }
+    .box .row .title{
+        width:400px;
+    }
+
+}
+@media screen and (min-width:1010px) and (max-width: 1270px) { 
+    .box .col-md-3{
+        margin-right: 150px;
+  
+            }
+    .box .col-md-3 img{
+        width:230px;
+   
+    }
+    .box .row .title{
+        width:230px;
+        
+    }
+}
+
+@media screen and (width: 1280px){
+    .box .col-md-3 img{
+        width:200px;
+    }
+    .box .row .title{
+        width:200px;
+    }
+
+}
+.Details {
+    margin-top:100px;
+    font-family: 'Cairo', sans-serif;
+margin-bottom: 50px;
+}
+    .Details .col-md-6 {
+        margin-right: 100px;
+    }
+.Details img{
+  position:relative;
+  width:400px;
+  height:300px
+}
+
+.Details .title{
+    background-color: #CBC2C2;
+    text-align: center;
+    height: 50px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+    width: 400px;
+    position: absolute;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+} 
+.Details .title h5{
+    padding-top: 15px;
+}
+.Details h4{
+    text-align:center;
+    font-family: 'Cairo', sans-serif;
+}
+.Details h3{
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: 'Cairo', sans-serif;
+}
+.Details h6{
+    font-size: 15px;
+    line-height: 35px;
+    font-family: 'Cairo', sans-serif;
+}
+.Details button{
+    margin-top: 100px;
+    width:200px;
+    height: 50px;
+    background-color: #F36F20;
+    border: 1px solid #F36F20;
+    border-radius: 5px;
+    color:white;
+    font-family: 'Cairo', sans-serif;
+  margin-right: 50px;
+  margin-left: 50px;
+}

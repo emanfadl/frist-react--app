@@ -1,0 +1,36 @@
+.about{
+    margin-top:100px;
+    font-family: 'Cairo', sans-serif;
+}
+ .about .container {
+    width:95% ;
+    margin: auto;
+}
+.about img{
+margin-right:-50px;
+}
+.about .col-md-5 h3{
+    font-size: 35px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+
+.about h6{
+    color:#F36F20;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.about p{
+    font-size: 15px;
+    font-weight: 400;
+}
+@media screen and (max-width: 600px){
+    .about img{
+        margin-right: 0px;
+        width: 550px;
+    }
+    
+}

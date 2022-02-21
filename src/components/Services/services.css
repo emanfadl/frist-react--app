@@ -1,0 +1,22 @@
+.services{
+    font-family: 'Cairo', sans-serif;
+   
+}
+.services h1{
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: lighter;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.figure{
+    margin-right: 220px;
+    margin-top: 30px;
+}
+.figure-caption{
+    color: #F36F20 !important;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+}

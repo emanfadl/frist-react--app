@@ -1,0 +1,21 @@
+.footer{
+    background-color: #F36F20;
+    font-family: 'Cairo', sans-serif;
+    color:#000000 !important ;
+}
+.footer ul{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer ul li{
+    list-style: none;
+    line-height: 30px;
+}
+.footer .location li{
+    padding-bottom: 30px;
+}
+
+
+.footer ul img{
+    padding-left: 15px;
+}

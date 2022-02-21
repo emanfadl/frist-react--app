@@ -1,0 +1,38 @@
+.offershome h1{
+text-align: center;
+font-family: 'Cairo', sans-serif;
+font-weight: lighter;
+font-size: 40px;
+padding-top: 50px;
+}
+.offershome p{
+    text-align: center;
+    color: #F36F20;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+.box img{
+    position: relative;
+}
+.box .row .title{
+    background-color: #CBC2C2;
+    text-align: center;
+    height: 50px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+    width: 253px;
+    position: absolute;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+} 
+.box .row .title h5{
+    padding-top: 10px;
+}
+ .box .col-md-3{
+     margin-top: 50px;
+ }
+ 
+ 
